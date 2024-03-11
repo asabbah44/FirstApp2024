@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Cites">
+        <item>Ramallah</item>
+        <item>Nablus</item>
+        <item>Tulkarem</item>
+        <item>Jerusalem</item>
+    </string-array>
+</resources>
